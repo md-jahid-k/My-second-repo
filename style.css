@@ -1,0 +1,14 @@
+img{
+    height: 500px;
+    width: 600px;
+}
+div{
+    background-image: url(/Images/WhatsApp\ Image\ 2024-06-23\ at\ 19.56.14_1d26adab.jpg);
+    width: 500px;
+    height: 450px ;
+    background-color: aliceblue;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
